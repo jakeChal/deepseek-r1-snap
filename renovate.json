@@ -1,6 +1,7 @@
 {
   "extends": [
     "config:recommended",
-    "github>canonical/inference-snaps-dev//renovate/default.jsonc#v2"
-  ]
+    "github>canonical/inference-snaps-dev//renovate/default.jsonc#fix-renovate-config-for-ovms-vol2"
+  ],
+  "forkProcessing": "enabled"
 }
